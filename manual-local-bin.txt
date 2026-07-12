@@ -1,0 +1,26 @@
+total 12712
+drwxr-xr-x  2 root root     4096 Apr 30 13:52 ./
+drwxr-xr-x 12 root root     4096 Jan  9  2026 ../
+lrwxrwxrwx  1 root root       54 Apr 30 13:52 cagent -> /mnt/wsl/docker-desktop/cli-tools/usr/local/bin/cagent
+-rwxr-xr-x  1 root root    14472 Jan  9  2026 cancel*
+-rwxr-xr-x  1 root root    18568 Jan  9  2026 cups-oauth*
+-rwxr-xr-x  1 root root    30936 Jan  9  2026 cups-x509*
+-rwxr-xr-x  1 root root    55512 Jan  9  2026 cupstestppd*
+-rwxr-xr-x  1 root root   174296 Jan  9  2026 ippeveprinter*
+-rwxr-xr-x  1 root root    39144 Jan  9  2026 ippfind*
+-rwxr-xr-x  1 root root   125144 Jan  9  2026 ipptool*
+lrwxrwxrwx  1 root root       55 Apr 30 13:52 kubectl -> /mnt/wsl/docker-desktop/cli-tools/usr/local/bin/kubectl
+-rwxr-xr-x  1 root root    26760 Jan  9  2026 lp*
+-rwxr-xr-x  1 root root    22744 Jan  9  2026 lpoptions*
+-rwxr-xr-x  1 root root    22744 Jan  9  2026 lpq*
+-rwxr-xr-x  1 root root    14472 Jan  9  2026 lpr*
+-rwxr-xr-x  1 root root    14472 Jan  9  2026 lprm*
+-rwxr-xr-x  1 root root    35248 Jan  9  2026 lpstat*
+-rwxr-xr-x  1 root root    36688 Feb  9 18:42 nms*
+-rwxr-xr-x  1 root root   100720 Jan  9  2026 ppdc*
+-rwxr-xr-x  1 root root   100720 Jan  9  2026 ppdhtml*
+-rwxr-xr-x  1 root root   100720 Jan  9  2026 ppdi*
+-rwxr-xr-x  1 root root    18648 Jan  9  2026 ppdmerge*
+-rwxr-xr-x  1 root root    96624 Jan  9  2026 ppdpo*
+-rwxr-xr-x  1 root root    35768 Feb  9 18:42 sneakers*
+-rwxr-xr-x  1 root root 11887640 Apr 27  2025 starship*
